@@ -1,3 +1,9 @@
+# Installation Processing
+Dieses Projekt wurde in der Programmiersprache Processing im Python-Modus entwickelt.
+
+Auf folgenden Link klicken, um Processing zu installieren: https://processing.org/download?PHPSESSID=8e6890fd30e3476408b69f203c217284 \
+Folgender Link verweist auf eine Einführung in die Processing-Umgebung: https://processing.org/environment
+
 # Sieb des Erastothenes
 
 Bei diesem Projekt handelt es sich um eine Visualisierung des "Sieb des Erastothenes"-Algorithmus zur Darstellung und Bestimmung aller Primzahlen im Intervall [2, n] für einen gegebenen Wert von n, der als obere Schranke dient. Diese werden nacheinander in einem roten Bereich gelb markiert.
